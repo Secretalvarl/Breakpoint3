@@ -1,0 +1,27 @@
+@charset "ISO-8859-1";
+
+.verde {
+	background-color: greenyellow;
+	text-align: center;
+
+}
+
+.azul {
+	background-color: skyblue;
+	text-align: center;
+}
+
+.gris {
+	background-color: gray;
+	text-align: center;
+}
+
+.cian {
+	background-color: aqua;
+	text-align: center;
+}
+
+.naranja {
+	background-color: darkorange;
+	text-align: center;
+}
